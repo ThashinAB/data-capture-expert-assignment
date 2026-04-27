@@ -1,0 +1,13 @@
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/EhrServiceApplication.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/advice/GlobalExceptionHandler.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/controller/PatientController.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/dto/ClinicalProblemRequest.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/dto/ErrorResponse.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/dto/PatientRequest.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/exception/PatientNotFoundException.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/exception/ValidationException.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/model/ClinicalProblem.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/model/Coding.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/model/Patient.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/service/PatientService.java
+/Users/thashinrahuman/Downloads/ehr-service/src/main/java/com/ehr/validation/SnomedValidator.java

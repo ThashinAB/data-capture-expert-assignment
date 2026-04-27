@@ -1,0 +1,12 @@
+com/ehr/exception/PatientNotFoundException.class
+com/ehr/model/Patient.class
+com/ehr/model/Coding.class
+com/ehr/validation/SnomedValidator.class
+com/ehr/service/PatientService.class
+com/ehr/exception/ValidationException.class
+com/ehr/advice/GlobalExceptionHandler.class
+com/ehr/model/ClinicalProblem.class
+com/ehr/dto/PatientRequest.class
+com/ehr/dto/ClinicalProblemRequest.class
+com/ehr/controller/PatientController.class
+com/ehr/dto/ErrorResponse.class
